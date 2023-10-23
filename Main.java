@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
   Scanner scan = new Scanner(System.in);
-    int n1, n2, n3, n4, n5, n6, i;
+    int n1, n2, n3, n4, i;
     n1=1;
     n2=2;
     n4=1;
